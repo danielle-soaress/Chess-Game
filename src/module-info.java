@@ -4,5 +4,5 @@
 /**
  * 
  */
-module chessGame {
+module ChessGame {
 }
